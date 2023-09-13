@@ -1,1 +1,1 @@
-# learning-git merge
+# learning-git
